@@ -1,0 +1,38 @@
+# Android / Gradle
+.gradle/
+local.properties
+/.idea/
+/build/
+/captures/
+/.externalNativeBuild/
+/app/*.iml
+.gradle/
+.idea/
+.DS_Store
+/*.keystore
+/*.jks
+
+# Android Studio
+.gradle/
+.build/
+.idea/
+captures/
+*.apk
+*.ap_
+*.keystore
+*.jks
+
+# Node / web demo
+node_modules/
+dist/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Python (if used)
+venv/
+__pycache__/
